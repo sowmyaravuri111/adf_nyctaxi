@@ -1,0 +1,9 @@
+{
+	"name": "ravurinyctaxiadf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "73e678d5-7fc0-4de1-8dbf-a1493c9637a9",
+		"tenantId": "e4f1ee3d-678b-4110-b58a-18b6eb1c7bde"
+	}
+}
